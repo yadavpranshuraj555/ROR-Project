@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>MyTodoApp</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag 'application', media: 'all', 'data-turbo-track': 'reload' %>
+    
+
+  </head>
+
+  <body>
+    <header class="navbar">
+      <a href="#">Home</a>
+      <a href="#">Tasks</a>
+      <a href="#">About</a>
+    </header>
+    
+    <%= yield %> <!-- Main content will be rendered here -->
+  </body>
+</html>
