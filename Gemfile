@@ -5,7 +5,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '7.2.1'
-gem 'pg', '1.5.8'
+gem 'pg', '1.5.9'
 gem 'puma', '6.4.3'
 gem 'sprockets-rails', '3.5.2'
 gem 'importmap-rails', '2.0.2'
