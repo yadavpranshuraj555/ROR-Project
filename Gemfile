@@ -20,7 +20,7 @@ gem 'bootsnap', '1.18.4'
 # gem 'capybara', '3.40.0'
 # gem 'selenium-webdriver', '4.25.0'
 gem 'sprockets', '4.2.1'
-gem 'msgpack', '1.7.3'
+gem 'msgpack', '1.7.5'
 # Add other gems as needed
 
 
