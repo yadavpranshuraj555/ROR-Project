@@ -131,7 +131,7 @@ GEM
     matrix (0.4.2)
     mini_mime (1.1.5)
     minitest (5.25.1)
-    msgpack (1.7.3)
+    msgpack (1.7.5)
     net-imap (0.5.1)
       date
       net-protocol
@@ -279,7 +279,7 @@ DEPENDENCIES
   error_highlight (>= 0.4.0)
   importmap-rails (= 2.0.2)
   jbuilder (= 2.13.0)
-  msgpack (= 1.7.3)
+  msgpack (= 1.7.5)
   pg (= 1.5.8)
   puma (= 6.4.3)
   rails (= 7.2.1)
