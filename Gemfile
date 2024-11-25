@@ -6,7 +6,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '7.2.1'
 gem 'pg', '1.5.8'
-gem 'puma', '6.4.3'
+gem 'puma', '6.5.0'
 gem 'sprockets-rails', '3.5.2'
 gem 'importmap-rails', '2.0.2'
 gem 'turbo-rails', '2.0.10'
